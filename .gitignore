@@ -1,5 +1,5 @@
 node_modules
 *.swp
 *.swo
-**/*.css.map
-**/*.js.map
+**/**.css.map
+**/**.js.map
